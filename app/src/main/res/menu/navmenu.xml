@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/lure"
+        android:icon="@drawable/category"
+        android:title="Lure" />
+
+    <item
+        android:id="@+id/trap"
+        android:icon="@drawable/product"
+        android:title="Traps" />
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/logout"
+        android:title="Log out" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/aboutus"
+        android:title="About us" />
+</menu>
+
